@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liziwei01
 - 👀 I’m interested in GO
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alssylk@gmail.com
 
